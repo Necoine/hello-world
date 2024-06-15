@@ -1,2 +1,2 @@
 # hello world
-Learning how to code
+Im a student learning how to code.
